@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SList</string>
+    <string name="add_item">Enter item</string>
+    <string name="b_add">Add</string>
+</resources>
